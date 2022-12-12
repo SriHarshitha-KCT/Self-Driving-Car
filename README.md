@@ -15,6 +15,10 @@ OUTPUTS:
 •	Wipers
 •	Horn and more
 Here, In this project we take input video from front camera and we predict steering wheel angle.
+
+
+
+
 ![image](https://user-images.githubusercontent.com/78693179/207123748-220cb3c1-7954-4c5f-a79b-84bc5dc528e9.png)
 
 
