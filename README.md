@@ -1,3 +1,6 @@
+Click the link to look at the output:
+https://drive.google.com/file/d/1kR4yPXuNXLE6YSOG7UULyvHsH9hzfiP7/view?usp=share_link
+
 # Self-Driving-Car
 The objective of the autonomous vehicle is to decide on the steering angle to apply along a given path. Dataset used here is Sully Chen Dataset. A webcam was placed behind the windshield for recording the video. A drive of 25 minutes has been recorded. The video is segmented at the measure of 30 frames per second. The approach is interfacing with the car directly, accessing the CAN-BUS using the OBD-II port that every modern car is equipped with. CAN BUS signals were decoded before. CAN BUS signals tells every part of automobile connected to CANBUS. We can just identify the steering angle from the particular column. More details about the dataset collection can be accessed here. The objective here is to make CNN learn and extract features such as signals, weather conditions, lane marking, path planning just be providing steering angle as train data and we have obtained it to a considerable satisfaction. CNN is used for feature extraction and FC layers were used for predicting steering angle.
 
